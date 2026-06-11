@@ -178,11 +178,8 @@ REST APIs
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github.com/nikhil-charani/nikhil-charani/blob/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/nikhil-charani/nikhil-charani/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 📈 Professional Highlights
