@@ -249,21 +249,52 @@ REST APIs
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🤝 Let's Connect</h2>
 
-📧 Email: nikhil.cp66@gmail.com
+<p align="center">
+  <a href="mailto:nikhilch.charani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-💼 LinkedIn: https://linkedin.com/in/nikhil-chinnaposani
+  <a href="https://linkedin.com/in/nikhil-chinnaposani">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-🌍 Portfolio: https://nikhil13-portfolio.vercel.app
+  <a href="https://nikhil13-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-🐙 GitHub: https://github.com/nikhil-charani
+  <a href="https://github.com/nikhil-charani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
+  <a href="https://raw.githubusercontent.com/nikhil-charani/nikhil-charani/main/NIKHIL_RESUME.pdf">
+    <img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 ---
 
+<h2 align="center">🌟 Engineering Solutions That Matter</h2>
+
+<p align="center">
+Specialized in Java, Spring Boot, React, Next.js, and Full Stack Development.<br>
+Focused on creating secure, scalable, and user-centric applications that solve meaningful problems.
+</p>
+
+<p align="center">
+<i>"Turning complex challenges into elegant software solutions."</i>
+</p>
+
+<p align="center">
+💻 Software Engineer | ☕ Java Full Stack Developer | 🚀 Problem Solver
+</p>
+
+---
 
 <div align="center">
 
 ### 🚀 "Turning Ideas Into Scalable Software Solutions"
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer"/>
+</p>
 </div>
