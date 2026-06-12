@@ -172,10 +172,15 @@ REST APIs
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=nikhil-charani&theme=tokyonight&row=1&column=7"/>
 
+</p> -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nikhil-charani&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
