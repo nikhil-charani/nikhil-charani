@@ -12,7 +12,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;Building+Scalable+Applications;Microservices+Enthusiast;Open+to+Software+Engineering+Opportunities" />
 
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=irohansha&label=Profile+Views&color=7aa2f7&style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7aa2f7?style=flat-square" />
+</div>
 ---
 
 ## 🚀 About Me
@@ -55,7 +59,7 @@
 
 ### Languages
 
-<p>
+<!-- <p>
 <img src="https://skillicons.dev/icons?i=java,javascript,c" />
 </p>
 
@@ -81,10 +85,38 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
+</p> -->
 
 ---
+**🎨 Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**⚙️ Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+
+**🗄️ Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**🔧 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AI Dev](https://img.shields.io/badge/AI--Assisted_Dev-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
 # 💼 Featured Projects
 
 ## 📝 Online Examination System
@@ -177,7 +209,7 @@ REST APIs
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 <!-- <p align="center">
 
@@ -191,9 +223,6 @@ REST APIs
   <img src="https://github-readme-stats.vercel.app/api?username=nikhil-charani&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-charani&theme=tokyonight" height="180"/>
 </p>
-
-
-
 
 ---
 
@@ -231,12 +260,7 @@ REST APIs
 🐙 GitHub: https://github.com/nikhil-charani
 
 ---
-## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhil-charani&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
----
 
 <div align="center">
 
