@@ -43,6 +43,13 @@
 - Enterprise Web Applications
 
 ---
+## 🏅 Achievements
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil-charani&color=blue)
+
+![Followers](https://img.shields.io/github/followers/nikhil-charani?label=Followers&style=social)
+
+![Stars](https://img.shields.io/github/stars/nikhil-charani?affiliations=OWNER&style=social)
 
 ## 🛠️ Tech Stack
 
@@ -177,12 +184,16 @@ REST APIs
 <img src="https://github-profile-trophy.vercel.app/?username=nikhil-charani&theme=tokyonight&row=1&column=7"/>
 
 </p> -->
+
+
+<!-- <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nikhil-charani&theme=algolia&no-frame=true&row=1&column=7" />
+</p> -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikhil-charani&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhil-charani&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -218,6 +229,12 @@ REST APIs
 
 🐙 GitHub: https://github.com/nikhil-charani
 
+---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhil-charani&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ---
 
 <div align="center">
