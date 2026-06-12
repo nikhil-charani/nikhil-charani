@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./gitbanner.png" width="100%" />
+</p>
+
+
 <div align="center">
 
 # Hi 👋, I'm Nikhil Chinnaposani
